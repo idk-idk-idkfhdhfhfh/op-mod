@@ -2,7 +2,7 @@
 	"type": "SolarGenerator",
 	"name": "solar panel op",
 	"description": "powahhhh.",
-	"size": 4,
+	"size": 1,
 	"hasPower": true,
 	"powerProduction": 99999.0,
 	"requirements": [
