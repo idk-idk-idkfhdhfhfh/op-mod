@@ -1,17 +1,15 @@
 {
 	"type": "Drill",
-	"name": "Bronze Drill",
-   	"description": "Little Drill that doesn't need energy",
-   	"size": 3,
-	"tier": 3,
+	"name": "Op Drill",
+   	"description": "Dig",
+   	"size": 2,
+	"tier": 10,
 	"liquidBoostIntensity": 1,
-   	"drillTime": 500,
-   	"itemCapacity": 5,
+   	"drillTime": 0.01,
+   	"itemCapacity": 9999,
     "requirements":[
-		    { "item": "bronze", "amount": 20 },
-           	{ "item": "tin", "amount":30 }
-            { "item": "copper", "amount":25 }
+            { "item": "copper", "amount":1 }
         ],
        "category": "production",
-       "research": "pneumatic-drill"
+       "research": "duo"
 }
